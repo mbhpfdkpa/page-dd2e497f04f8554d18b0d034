@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "68a10ea8219539f843549325",
+  "owner": "mbhpfdkpa",
+  "repo": "page-dd2e497f04f8554d18b0d034",
+  "title": "E",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "dd2e497f04f8554d18b0d034",
+      "a": "E",
+      "b": "",
+      "entity": "E",
+      "brand": "E",
+      "separator": "",
+      "path": "index.html",
+      "hash": "75d3e85dfe1d227636913f154b68e395faf4850568207d2957e5f9855cec118f",
+      "content": {
+        "keyword1": "E",
+        "keyword2": "",
+        "primary_entity": "E",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "E提供机场订阅与VPN梯子网络加速服务，支持多设备同时在线与官方客户端下载。本页介绍E套餐、配置流程、节点线路及常见问题，助您快速完成加速器部署。",
+          "AI_DESCRIPTION": "E提供机场订阅与VPN梯子网络加速服务，支持多设备同时在线与官方客户端下载。本页介绍E套餐、配置流程、节点线路及常见问题，助您快速完成加速器部署。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}body{margin:0;font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,\"Helvetica Neue\",Arial,\"PingFang SC\",\"Microsoft YaHei\",sans-serif;background:#F6F3EE;color:#1c1c1c;font-size:16px;line-height:1.65}a{color:#1A5F3A}header{background:#1A5F3A;color:#fff;padding:14px 4%} .brand{font-weight:700;font-size:1.25rem;letter-spacing:.04em}nav{margin-top:8px;display:flex;flex-wrap:wrap;gap:10px 16px}nav a{color:#e8f5e9;text-decoration:none;font-size:.95rem}main{max-width:1000px;margin:0 auto;padding:20px 4% 40px}h1{color:#143d28;font-size:1.75rem;line-height:1.3;margin:.4em 0 .6em}h2{color:#1A5F3A;font-size:1.35rem;margin:1.6em 0 .7em;padding-bottom:6px;border-bottom:2px solid #c5ddc8}h3{color:#245c38;font-size:1.08rem;margin:1em 0 .4em}p,li{color:#2a2a2a}.lead{font-size:1.05rem;color:#333}.stagger{display:flex;flex-wrap:wrap;gap:20px;margin:20px 0;align-items:stretch}.stagger article,.panel{flex:1 1 280px;background:#fff;border:1px solid #d5e6d8;padding:18px 16px;border-radius:6px}.stagger.reverse{flex-direction:row-reverse}.plans{display:flex;flex-wrap:wrap;gap:16px;margin:16px 0}.plan{flex:1 1 250px;background:#fff;border:1px solid #cfe0d2;padding:18px;border-radius:6px}.plan.featured{border:2px solid #1A5F3A;background:#eef6f0}.price{font-size:1.35rem;color:#1A5F3A;font-weight:700}.annual{font-size:.9rem;color:#3d6b4e}.plan ul{padding-left:1.1em;margin:10px 0 0}.step{background:#fff;border-left:4px solid #1A5F3A;padding:12px 14px;margin:12px 0}details{background:#fff;border:1px solid #d0e3d3;padding:10px 14px;margin:10px 0;border-radius:4px}summary{font-weight:600;color:#1A5F3A}details p{margin:8px 0 0;color:#333}footer{background:#143d28;color:#d4ead8;padding:28px 4%;font-size:.92rem}footer h2,footer h3{color:#eaf6ec;border:none;margin-top:.4em;font-size:1.1rem}footer a{color:#b7d8bc}.cols{display:flex;flex-wrap:wrap;gap:24px}.cols>div{flex:1 1 200px}ul.plain{list-style:none;padding:0;margin:0}ul.plain li{margin:6px 0}@media(max-width:640px){h1{font-size:1.45rem}.stagger,.stagger.reverse{flex-direction:column}}</style><header><div class=\"brand\">E 官网</div><nav><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#scenes\">场景</a><a href=\"#setup\">配置流程</a><a href=\"#download\">客户端下载</a><a href=\"#nodes\">线路</a><a href=\"#faq\">常见问题</a><a href=\"#sitemap\">网站地图</a></nav></header><main><h1>E — 机场订阅、VPN 网络加速与客户端官方下载</h1><p class=\"lead\" id=\"intro\">E 面向个人与团队提供可订阅的高速网络加速服务。无论跨境办公、学术访问、流媒体观看还是游戏加速，都可通过 E 机场节点与官方客户端获得稳定连接。本站是 E 官方网站，集中说明套餐权益、配置流程与正版下载入口，避免在非官方渠道获取被篡改的安装包。</p><section><h2 id=\"about-title\">品牌简介</h2><p>E 将机场订阅与 VPN 加速体验放在同一服务体系中：购买套餐后即可获得通用订阅链接，可导入主流代理客户端，也可使用 E 指引的官方轻量客户端一键连接。线路以亚洲核心城市为骨干，并辅以北美、欧洲出口，晚高峰仍维持可用带宽。旗舰能力包括原生流媒体解锁与 IPLC 专线游戏优化，团队版另提供高带宽节点与定制路由。</p><p>E 不捆绑推广软件，不强制复杂插件。官方身份以本官网信息为准：套餐价格、流量配额与设备数量均在页面公示。若你需要的是长期稳定的梯子与加速器，而不是一次性试用节点，E 的月付与年付结构可以直接对照使用场景选择。</p></section><section id=\"plans\"><h2 id=\"plans-title\">套餐方案</h2><p>以下为当前公示套餐。年付按 10 个月计费，适合已经确认日常使用量的用户。设备数指同时在线隧道数，流量为当月极速额度，用尽后可等待重置或升级。</p><div class=\"plans\"><article class=\"plan\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"annual\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul></article><article class=\"plan featured\"><h3>旗舰版（推荐）</h3><p class=\"price\">¥35/月</p><p class=\"annual\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul></article><article class=\"plan\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"annual\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul></article></div></section><section id=\"scenes\"><h2 id=\"scenes-title\">使用场景</h2><div class=\"stagger\"><article><h3>流媒体与内容访问</h3><p>旗舰版面向需要稳定解锁的用户：影视、音乐与区域内容可走原生解锁节点，减少片源缺失与反复缓冲。基础版覆盖常见平台的基础解锁，适合偶尔观看。将分流规则中的媒体域名走代理，其他国内流量直连，能同时保证速度与流量利用率。</p></article><article><h3>游戏与实时对战</h3><p>对延迟敏感的对局建议使用带 IPLC 标识的节点。E 旗舰版针对游戏加速做了专线优化，降低高峰期抖动。组队语音可与游戏走同一出口，避免声音与画面不同步。团队训练或公会活动可升级团队版以获得更高带宽余量。</p></article></div><div class=\"stagger reverse\"><article><h3>跨境办公与资料访问</h3><p>远程会议、代码仓库、学术数据库与设计协作平台适合固定一条低丢包线路。E 支持多设备同时在线，笔记本、手机与一台备用设备可以共用同一套餐。企业如需按部门划分出口，可在团队版申请定制路由。</p></article><article><h3>出行、宿舍与多终端</h3><p>出差或校园网络环境下，用手机开热点再让电脑走 E 客户端即可。注意同时在线台数不要超过套餐上限。订阅导入一次后，各端可独立选择节点，互不影响收藏列表。流量以账户维度统计，便于一家人共用基础版或旗舰版。</p></article></div></section><section id=\"setup\"><h2 id=\"setup-title\">配置流程（重点）</h2><p>E 的核心体验来自正确完成订阅导入，而不是反复更换安装包。请按下列顺序操作，多数连接问题都出在跳过校验或导入了过期链接。</p><div class=\"step\"><h3>第一步：确认套餐与流量预期</h3><p>对照使用场景选择基础版、旗舰版或团队版。流媒体与游戏优先旗舰版；多成员共用或办公出口选团队版。年付适合已经跑通配置、准备长期使用的用户。记下设备上限，避免超开导致旧会话被踢。</p></div><div class=\"step\"><h3>第二步：获取机场订阅链接</h3><p>在账户中心复制订阅地址，保持为完整 URL，不要经即时通讯软件反复转发以免被截断。E 机场订阅兼容常见 Clash 系列配置。若客户端要求令牌或一次性导入码，以账户页当时显示的字段为准，过期后重新复制即可。</p></div><div class=\"step\"><h3>第三步：下载对应系统客户端</h3><p>前往本页<a href=\"#download\">客户端下载</a>说明，仅使用官网列出的客户端类型。Windows 与 Android 推荐 Clash 系；iOS 使用支持订阅的商店应用。不要安装来路不明的“一键加速包”。下载完成后先打开一次，确认能进入配置页再进行导入。</p></div><div class=\"step\"><h3>第四步：导入订阅并更新节点</h3><p>在客户端选择“从 URL 导入”或“订阅管理”，粘贴链接并命名为 E。导入成功后立即点击更新，确认节点列表出现香港、日本、美国、新加坡等入口。若列表为空，检查系统时间、剪贴板完整性以及是否开启了阻止 HTTP 的安全插件。</p></div><div class=\"step\"><h3>第五步：选择节点、分流与连通测试</h3><p>日常浏览可选延迟较低的普通线路；观影选带解锁标识的节点；对战游戏选 IPLC。建议开启规则分流：国内站点直连，国外走代理。连接后访问两个不同区域的站点确认隧道生效。收藏 2–3 条备用节点，避免单一入口维护时中断。</p></div><div class=\"step\"><h3>第六步：多设备同步与日常维护</h3><p>同一订阅可在额度内的设备上重复导入。变更套餐后务必全端更新订阅。每月初关注流量余量；接近上限时减少大体积更新或升级套餐。客户端保持自动更新订阅，但不要同时开多个互相冲突的系统代理。</p></div></section><section id=\"download\"><h2 id=\"download-title\">客户端下载</h2><p>E 官方下载指引按系统设计，目的是让机场订阅在各平台表现一致。以下为推荐组合，安装包请通过本官网当期公布的校验信息获取，勿使用搜索引擎随机结果。</p><div class=\"stagger\"><article><h3>桌面端</h3><p>Windows：Clash Verge 或 E 官方 Windows 客户端，适合规则分流与系统代理。macOS：ClashX.Meta 或官方包，注意授予网络扩展权限。Linux：Clash / mihomo 命令行或图形前端，导入同一订阅即可。下载入口：<a href=\"#download\">#windows</a>、<a href=\"#download\">#macos</a>、<a href=\"#download\">#linux</a>。</p></article><article><h3>移动与路由</h3><p>Android：Clash Meta for Android，支持分应用代理。iOS：Shadowrocket 或 Stash（需可用的商店账号）。路由器：OpenClash 等，将订阅填入后再下发到家庭设备。下载入口：<a href=\"#download\">#android</a>、<a href=\"#download\">#ios</a>、<a href=\"#download\">#router</a>。企业批量部署请使用团队版客户经理通道说明。</p></article></div></section><section id=\"nodes\"><h2 id=\"nodes-title\">线路、节点与性能说明</h2><p>E 节点池包含普通线路与 IPLC 专线。普通线路覆盖日常网页、消息与中小体积下载；IPLC 用于游戏与会议。流媒体解锁在旗舰版全节点提供原生策略，基础版为部分平台。出口城市以香港、东京、新加坡、洛杉矶、伦敦为主，实际可用列表以客户端更新后为准。</p><p>性能方面，E 关注连接成功率与晚高峰可用性，而不是宣传瞬时峰值。合理分流比盲目选择最远节点更重要。团队版 VIP 高带宽节点适合多人同时拉取大文件或进行长时间会议。维护窗口会尽量避开工作日白天，订阅更新后若某条线路超时，切换收藏中的备用节点即可。</p></section><section id=\"faq\"><h2 id=\"faq-title\">常见问题</h2><details><summary>E 机场和 E VPN 是什么关系？</summary><p>E 同时提供机场订阅与 VPN 式客户端体验。机场订阅用于 Clash 等工具灵活分流；官方客户端则把连接过程简化为一键开关。二者共用同一账户与流量池，不需要重复付费。已有机场或 VPN 习惯的用户可以直接沿用现有操作，不必更换术语。</p></details><details><summary>第一次使用必须按怎样的配置流程？</summary><p>务必按本页配置流程执行：选套餐、复制订阅、从官网指引下载客户端、导入并更新、再测速选节点。跳过更新订阅是列表空白的最常见原因。多设备重复导入同一链接即可，不要为每台设备单独购买，除非已经达到同时在线上限。</p></details><details><summary>客户端应该从哪里官方下载？</summary><p>只通过 E 官网的客户端下载说明获取对应系统软件。第三方“破解版加速器”可能植入广告或窃取订阅。iOS 应用来自商店，Android 与桌面端核对本页给出的名称。安装后若要求无关权限或捆绑浏览器，应立即卸载并改用列出的客户端。</p></details><details><summary>流量、设备数和年付如何理解？</summary><p>基础版每月 100GB、3 台同时在线；旗舰版 300GB、5 台；团队版 1000GB、20 台。同时在线指并发隧道，不是历史登录过的设备总数。年付为基础月价的 10 个月合计，适合配置已经稳定的用户。流量按账户合计，重置周期以账户页显示为准。</p></details><details><summary>游戏卡顿或流媒体无法播放怎么办？</summary><p>游戏请改用 IPLC 专线并关闭其他大流量任务；确认没有超过设备上限。流媒体请选择带解锁标识的节点，并避免全局模式把所有视频 CDN 都走代理。若仅个别剧集失败，更新订阅后再试邻近地区出口。旗舰版对原生解锁覆盖更完整。</p></details><details><summary>如何确认自己访问的是 E 官方网站？</summary><p>认准品牌名 E、本页公示的套餐价格与配置流程，以及客户端下载分区的平台列表。不要相信临时域名或要求先安装未知证书的页面。收藏本站链接，需要下载或核对套餐时从收藏进入。工单与客户经理沟通仅通过账户体系内渠道。</p></details><details><summary>团队或家庭如何共用 E？</summary><p>家庭轻量使用可选基础版或旗舰版，注意同时在线台数。工作室、实验室或小型公司使用团队版，可申请定制路由与专属高带宽节点，并有客户经理协助落地分流策略。不要把订阅链接发布到公开群组，以免流量被盗用。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><div class=\"cols\"><div id=\"sitemap\"><h2>网站地图</h2><ul class=\"plain\"><li><a href=\"#intro\">品牌简介</a></li><li><a href=\"#plans\">套餐方案</a></li><li><a href=\"#scenes\">使用场景</a></li><li><a href=\"#setup\">配置流程</a></li><li><a href=\"#download\">客户端下载</a></li><li><a href=\"#nodes\">线路与性能</a></li><li><a href=\"#faq\">常见问题</a></li></ul></div><div><h3>广告</h3><p>企业跨境组网与固定出口方案，请参阅团队版说明并联系专属客户经理通道。个人观影与游戏加速优先对比旗舰版流量与 IPLC 权益。本栏为官网信息展示，不跳转站外推广包。</p></div><div><h3>友情链接</h3><ul class=\"plain\"><li><a href=\"#\">代理规则与分流文档</a></li><li><a href=\"#\">开源客户端使用笔记</a></li><li><a href=\"#\">网络延迟与路由基础</a></li><li><a href=\"#\">流媒体区域与版权须知</a></li></ul></div></div><p>E 官方网站 · 机场订阅与 VPN 加速器服务说明 · 客户端请以本页下载指引为准</p></footer>",
+          "hash": "72189105af664cd2d540e7707254c31670bbdbaf8a8249f56e848eda81c3c1b6",
+          "seo": {
+            "title": "E官网 - VPN梯子网络加速、机场订阅与客户端官方下载",
+            "keywords": "E,E官网,E机场,E VPN,E加速器,梯子,网络加速,机场订阅,客户端下载,官方下载,IPLC专线,流媒体解锁",
+            "description": "E提供机场订阅与VPN梯子网络加速服务，支持多设备同时在线与官方客户端下载。本页介绍E套餐、配置流程、节点线路及常见问题，助您快速完成加速器部署。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bainubaba.cn",
+    "host": "p-81317b18b7.bainubaba.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "bainubaba.cn",
+      "url": "https://bainubaba.cn/",
+      "label": "奶油(CreamData)",
+      "apex": "bainubaba.cn",
+      "kind": null,
+      "identity": "afhjsjkqr/page-b84a04481d539d779061cbfe"
+    },
+    {
+      "host": "642orb.cn",
+      "url": "https://642orb.cn/",
+      "label": "E",
+      "apex": "642orb.cn",
+      "kind": null,
+      "identity": "cvmncfybabm/page-605620940a8e3502db540194"
+    },
+    {
+      "host": "dnwmtwd.cn",
+      "url": "https://dnwmtwd.cn/",
+      "label": "E",
+      "apex": "dnwmtwd.cn",
+      "kind": null,
+      "identity": "emubpvtdhg/page-2d314b61b1ffed24db627a24"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "51a82e93caf82086252bd5ed510d4834b5c270c43a468b7bfb822f8010814a7a",
+    "sitemap.xml": "675056f5e487759ebff9dd529fbe94e848a7ce8f90f31144b69e289c4a10aab5",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b9c29c8796d45cbf746bc529f2e9352629e07fa3e10d93c16cb6640d4c86d0bb",
+    "robots.txt": "559341c0f9cc92b49f9bd45c87e3e258b03e4f5934709912e7222faecf6bc67f",
+    "32560b4c506d8f363577ddccf5708206.txt": "f5c00f547cf43f32e035cb2ab22e21b2a614863b6fce2707c7d27e694646adee"
+  },
+  "revision": "96e42cd532c515fd95e25a4474a5d0e1738f67c6f33ddaadbf24e23efdda04de"
+}
